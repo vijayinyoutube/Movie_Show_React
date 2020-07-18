@@ -3,4 +3,4 @@
 A simple list view of movie details using React 👩‍💻
 
 
-<image src="https://user-images.githubusercontent.com/58719230/87792063-f7ead780-c860-11ea-94e8-ca38667ae926.png" >
+<image src="https://user-images.githubusercontent.com/58719230/87850650-8cac0e80-c90f-11ea-89b4-2eeff448d3e4.png" >
